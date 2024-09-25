@@ -1,0 +1,4 @@
+Flask==2.3.2
+opencv-python==4.10.0.82
+numpy==1.22.2
+gunicorn
